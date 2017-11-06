@@ -13,6 +13,6 @@ Failing on Material2 beta > 10
 
 Credits 
 This project is modification 
-Thanks for giving us angular2-starter with material2.
+Thanks Elad Bezalel for giving us angular2-starter with material2.
 
 https://github.com/EladBezalel/material2-start.git
